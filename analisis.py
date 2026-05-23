@@ -3,7 +3,7 @@ import csv
 total_goles = 0
 goles_por_jugador = {}
 
-with open('../datos/estadisticas.csv', newline='') as archivo:
+with open('estadisticas.csv', newline='') as archivo:
     lector = csv.DictReader(archivo)
     
     for fila in lector:

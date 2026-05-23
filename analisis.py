@@ -21,4 +21,6 @@ max_jugador = max(goles_por_jugador, key=goles_por_jugador.get)
 
 print("Total de goles:", total_goles)
 print("Jugador con más goles:", max_jugador)
--
+
+
+#Actualizacion de datos

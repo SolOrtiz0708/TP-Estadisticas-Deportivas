@@ -1,1 +1,11 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
 
+# Colab
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+.DS_Store

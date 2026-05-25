@@ -24,3 +24,5 @@ print("Jugador con más goles:", max_jugador)
 
 
 #Actualizacion de datos
+
+#Código realizado por Lis Sonnleitner y revisaro por Sol Ortiz

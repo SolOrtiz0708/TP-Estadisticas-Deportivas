@@ -1,28 +1,29 @@
 # TP-Estadísticas-Deportivas
 
-#Integrantes:
-Rol                        | Nombre 
-P1 - Líder y Organizador   | Sol Ortiz 
-P2 - Desarrollador Técnico | Lis Sonnleinter
-P3 - Revisor y QA          | Sol Ortiz 
+## Integrantes:
+| Rol | Nombre |
+|-----|--------|
+| P1 - Líder y Organizador | Sol Ortiz |
+| P2 - Desarrollador Técnico | Lis Sonnleitner |
+| P3 - Revisor y QA | Sol Ortiz |
 
-#Escenario:
+## Escenario:
 D - Estadísticas de resultados deportivos
 
-#Estructura del Repositorio:
-|--- datos
-|      |-- estadisticas.cvs
-|--- scripts
-|       |-- analisis.py
-|--- resultado
-|        |-- resutado.txt
-|--- README.md
-|--- .gitignore
+## Estructura del Repositorio:
+├── datos/
+│ └── estadisticas.csv
+├── scripts/
+│ └── analisis.py
+├── resultados/
+│ └── resultado.txt
+├── README.md
+└── .gitignore
 
-#Cómo ejecutar:
+## Cómo ejecutar:
 ```bash
 !python scripts/analysis.py
 
-#Enlaces:
+## Enlaces:
 Jira: https://solortiz1029.atlassian.net/jira/software/projects/TPOE/boards/34/backlog
 GitHub: https://github.com/SolOrtiz0708/TP-Estadisticas-Deportivas.git
